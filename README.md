@@ -47,6 +47,7 @@ Impact: Easier insights → better decisions → potential to improve lives.
 ---
 
 ## 🖼 Dashboard Preview
+![image alt](https://github.com/arjunganesh6133/Medical-Data-Extraction/blob/863fdde0bbd4340adb7a8400f1a91d1b49366187/Screenshot%202025-09-15%20020900.png)
 
  
 
