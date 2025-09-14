@@ -19,8 +19,8 @@ Impact: Easier insights → better decisions → potential to improve lives.
 
 ## 📊 Dataset
 - Source: [Kaggle Medical Dataset](https://www.kaggle.com/)  
-- Type: Structured data (patients, diagnosis, etc.)  
-- Size: ~XXX records, XXX columns  
+- Type: Structured data (patients, diagnosis, gender, blood group etc.)  
+- Size: 54967 records, 14 columns  
 
 ---
 
